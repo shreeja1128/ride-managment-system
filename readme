@@ -39,29 +39,6 @@ This system supports user authentication, profile management, vehicle registrati
 | **Deployment** | [Vercel](https://vercel.com) |
 | **Design** | Minimalist UI, responsive CSS |
 
----
-
-## 📸 Screenshots
-
-### 🔹 Home Page
-![Home Page](screenshots/homepage.png)
-
-### 🔹 Driver Registration
-![Driver Registration](screenshots/driver_register.png)
-
-### 🔹 Login Page
-![Login](screenshots/login.png)
-
-### 🔹 Add Vehicle Form
-![Add Vehicle](screenshots/add_vehicle.png)
-
-### 🔹 Driver Profile Dashboard
-![Driver Dashboard](screenshots/driver_dashboard.png)
-
-### 🔹 Passenger Ride Booking
-![Passenger Booking](screenshots/passenger_booking.png)
-
----
 
 ## 🛠️ How to Setup Locally
 
